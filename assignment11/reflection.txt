@@ -1,0 +1,30 @@
+1   Static vs. Interactive Visualizations
+
+Static visualizations such as traditional PNG images, PDFs, or printed charts present a fixed snapshot of data.
+They are ideal for quick publication in printed reports and ensuring consistent visual formatting across all
+platforms. However, they limit the user to a single pre-determined view.
+
+Interactive visualizations allow users to actively manipulate the display through zooming, panning, hovering over data points
+for detailed tooltips, and filtering parameters dynamically. 
+
+
+2  Advantages of Dashboards for real time data exploration
+Dashboards combine live information into one easy to read screen. Instead of waiting for
+weekly reports or searching through database files, managers can see important business numbers update in real time.
+This makes it easy to spot sudden problems, track progress, and make fast, smart decisions right as things happen.
+
+3  Improving Data Communication with Plotly
+Interactive tools like Plotly bridge the gap between complex analytical datasets and non-technical 
+stakeholders in professional settings
+Web-based features like hover cards display precise values only on demand, 
+keeping main charts clean, modern, and uncluttered.
+
+Cross-filtering, legend toggles, and range sliders allow stakeholders to explore scenarios relevant to their specific
+department without needing a data analyst to generate new custom reports.
+
+Exporting interactive visual artifacts directly to standalone HTML files or embedding them into web platforms 
+ensures rich analytical reports can be shared easily across teams using standard browsers.
+
+
+
+
