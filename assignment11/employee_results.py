@@ -2,7 +2,8 @@ import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
 
-conn = sqlite3.connect ("./db/lesson.db")
+
+conn = sqlite3.connect ("../db/lesson.db")
 
 query = """
 SELECT 
